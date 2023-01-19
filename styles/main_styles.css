@@ -5,4 +5,13 @@ body {
     color: maroon;
     }
 
+p {
+    color: black;
+    font-size: 16px;
+    
+}
 
+#copyright {
+    color: darkgray;
+    font-size: 10px;
+}
